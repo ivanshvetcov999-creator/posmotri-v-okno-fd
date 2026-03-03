@@ -1,4 +1,4 @@
 
-https://github.com/ivanshvetcov999-creator/posmotri-v-okno-fd#
+https://github.com/ivanshvetcov999-creator/posmotri-v-okno-fd
 
 
