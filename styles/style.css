@@ -231,7 +231,6 @@ ol {
 
 .content__card-link {
   color: #fff;
-  text-decoration: none;
   display: block;
   color: inherit;
   text-decoration: none;
@@ -358,7 +357,6 @@ ol {
 }
 
 .preloader {
-  position: absolute;
   top: 0;
   left: 0;
   z-index: 5;
